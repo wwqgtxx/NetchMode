@@ -18,9 +18,3 @@ OriginThinSetupInternal.exe
 OriginWebHelperService.exe
 QtWebEngineProcess.exe
 UpdateTool.exe
-vcredist_x64.exe
-vcredist_x64_vs2010.exe
-vcredist_x64_vs2015.exe
-vcredist_x86.exe
-vcredist_x86_vs2010.exe
-vcredist_x86_vs2015.exe
