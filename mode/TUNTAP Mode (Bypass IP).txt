@@ -1,1 +1,0 @@
-#TUN/TAP Mode (Bypass IP), 2, 0
