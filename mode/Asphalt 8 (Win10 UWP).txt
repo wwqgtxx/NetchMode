@@ -1,3 +1,0 @@
-# Asphalt 8: Airborne (Win10 UWP)
-Asphalt8.exe
-XboxApp.exe
