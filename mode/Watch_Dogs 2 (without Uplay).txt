@@ -1,4 +1,4 @@
-# Watch_Dogs 2(without Uplay)
+# Watch_Dogs 2 (without Uplay)
 EAC.exe
 WatchDogs2.exe
 SplashScreen.exe

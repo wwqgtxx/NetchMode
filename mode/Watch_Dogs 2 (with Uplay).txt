@@ -1,4 +1,4 @@
-# Watch_Dogs 2(with Uplay)
+# Watch_Dogs 2 (with Uplay)
 UbisoftGameLauncher.exe
 UbisoftGameLauncher64.exe
 upc.exe
