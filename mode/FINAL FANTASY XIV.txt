@@ -1,4 +1,4 @@
-# FINAL FANTASY XIV Online, 0
+# FINAL FANTASY XIV, 0
 ffxivboot.exe
 ffxivboot64.exe
 ffxivconfig.exe
