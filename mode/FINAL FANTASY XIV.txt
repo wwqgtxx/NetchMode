@@ -11,3 +11,4 @@ ffxivupdater.exe
 ffxivupdater64.exe
 ffxiv.exe
 ffxiv_dx11.exe
+XIVLauncher.exe
