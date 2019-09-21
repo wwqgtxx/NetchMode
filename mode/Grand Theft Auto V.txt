@@ -1,5 +1,10 @@
 # Grand Theft Auto V
-SocialClubHelper.exe
+Launcher.exe
+LauncherPatcher.exe
+RockstarService.exe
+RockstarSteamHelper.exe
 GTA5.exe
+GTAVLanguageSelect.exe
 GTAVLauncher.exe
 PlayGTAV.exe
+Social-Club-Setup.exe
