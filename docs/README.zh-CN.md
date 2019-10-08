@@ -21,7 +21,7 @@
 ## 第一行格式
 
 ```Python
-# 备注, 类型（是主项目 usage.zh-CN.md 里提到的模式类型的值减一）, 是否绕过中国（1为是, 0为否）
+# 备注, 类型（是主项目 USAGE.zh-CN.md 里提到的模式类型的值减一）, 是否绕过中国（1 为是, 0 为否）
 ```
 
 ## 不同的模式
@@ -33,9 +33,9 @@
 - 4 是 Socks5 本地代理（非系统代理）模式
 - 5 是 Socks5 和 HTTP 本地代理（非系统代理）模式
 
-模式 1 和模式 2 里面除了第一行格式不同，其他内容和[SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule)相同。是否绕过中国的功能依赖于[CNIP 文件](https://github.com/NetchX/Netch/blob/master/Netch/Resources/CNIP)
+模式 1 和模式 2 里面除了第一行格式不同，其他内容和 [SSTap-Rule](https://github.com/FQrabbit/SSTap-Rule) 相同。是否绕过中国的功能依赖于 [CNIP 文件](https://github.com/NetchX/Netch/blob/master/Netch/Resources/CNIP)
 
-模式 3 到模式 5 的是否绕过中国的功能依赖于[acl 文件](https://github.com/NetchX/Netch/blob/master/binaries/default.acl).
+模式 3 到模式 5 的是否绕过中国的功能依赖于 [acl 文件](https://github.com/NetchX/Netch/blob/master/binaries/default.acl).
 
 ## 进程模式范例文件
 
@@ -62,7 +62,7 @@
 ### TUN/TAP 白名单代理模式范例文件
 
 ```
-# 备注, 2, 是否绕过中国（1为是, 0为否）
+# 备注, 2, 是否绕过中国（1 为是, 0 为否）
 无类别域间路由写法 1（目的 IP 只有在这个子网内的网络请求不会被代理，其他的都会被代理）
 无类别域间路由写法 2
 ...
@@ -71,20 +71,20 @@
 ### HTTP 本地代理代理（系统代理）模式范例文件
 
 ```
-# 备注, 3, 是否绕过中国（1为是, 0为否）
+# 备注, 3, 是否绕过中国（1 为是, 0 为否）
 （目前只有第一行是有效的）
 ```
 
 ### Socks5 本地代理（非系统代理）模式范例文件
 
 ```
-# 备注, 4, 是否绕过中国（1为是, 0为否）
+# 备注, 4, 是否绕过中国（1 为是, 0 为否）
 （目前只有第一行是有效的）
 ```
 
 ### Socks5 和 HTTP 本地代理（非系统代理）模式范例文件
 
 ```
-# 备注, 5, 是否绕过中国（1为是, 0为否）
+# 备注, 5, 是否绕过中国（1 为是, 0 为否）
 （目前只有第一行是有效的）
 ```
