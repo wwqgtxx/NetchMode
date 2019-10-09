@@ -7,3 +7,4 @@ iigw_server.exe
 TslGame.exe
 TslGame_BE.exe
 TslGame_EAC.exe
+UnrealCEFSubProcess.exe
