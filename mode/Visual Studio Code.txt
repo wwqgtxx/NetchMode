@@ -1,4 +1,4 @@
-# VisualStudio Code, 0
+# Visual Studio Code, 0
 Code.exe
 unins000.exe
 inno_updater.exe
