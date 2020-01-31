@@ -1,4 +1,4 @@
-# GTAV, 0
+# Grand Theft Auto V, 0
 GTA5.exe
 GTAVLanguageSelect.exe
 GTAVLauncher.exe
@@ -12,3 +12,5 @@ RockstarSteamHelper.exe
 uninstall.exe
 vc_redist.x64.exe
 vc_redist.x86.exe
+SocialClubHelper.exe
+uninstallRGSCRedistributable.exe
