@@ -2,10 +2,7 @@
 
 用于存储 Netch 模式文件的仓库
 
-其他中文教程：
 
-- [【教程】运用 Netch ，享受游戏 - 萌鹰研究所](https://www.eaglemoe.com/archives/142)
-- [Netch：一款开源的网络游戏加速工具 - Rat's Blog](https://www.moerats.com/archives/959/)
 
 ## 目录
 
@@ -220,17 +217,7 @@ ping 的值未必准确，因为这只是你本地到代理服务器而非游戏
 
 如果出现了启动失败，或者无法代理成功的情况，请先尝试`选项 - 重启服务`或`选项 - 卸载服务`，或者在退出 Netch 以后，点击运行在 Netch 根目录下的 `DriverUpdater.exe` 程序进行驱动更新
 
-## 线路选择
 
-普通人可以入手 [N3RO](https://n3ro.host/register?ref=530) 的线路（不负责推荐），根据 [Saber 大佬的科普](https://t.me/sabershome/197)， IPLC 的线路较为稳定
-
-## 配合 udp2raw 使用
-
-打算使用自己租赁的服务器加速游戏的中二人士可以了解一下，多种网络工具配合使用，战公网。如果配合 Netch 使用的话，请注意让 Netch 的协议端口填写为系列工具的接收端口
-
-[udpspeeder + udp2raw 使用教程](https://www.moerats.com/archives/662/)
-
-[udpspeeder + udp2raw + tinyportmapper/udpspeeder + udp2raw + kcptun batch 脚本](https://github.com/BingLingGroup/run-udp2raw-batch)
 
 ## 语言支持
 
