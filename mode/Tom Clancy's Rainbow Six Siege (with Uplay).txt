@@ -9,6 +9,7 @@ UplayService.exe
 UplayWebCore.exe
 BEService_x64.exe
 RainbowSix.exe
+RainbowSix_Vulkan.exe
 RainbowSix_BE.exe
 Cleaner.exe
 FirewallInstall.exe
