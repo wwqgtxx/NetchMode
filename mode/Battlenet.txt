@@ -4,3 +4,4 @@ BlizzardError.exe
 Loader64.exe
 SystemSurvey.exe
 Battle.net.exe
+Agent.exe
