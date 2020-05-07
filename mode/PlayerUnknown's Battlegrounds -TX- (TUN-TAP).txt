@@ -1,4 +1,4 @@
-# PlayerUnknown's Battlegrounds -TX- (TUN-TAP), 1
+# PlayerUnknown's Battlegrounds -腾讯规则- (TUN-TAP), 1
 1.2.4.0/24
 1.17.0.0/16
 1.17.1.0/24

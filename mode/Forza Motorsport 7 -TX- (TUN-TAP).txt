@@ -1,4 +1,4 @@
-# Forza Motorsport 7 -TX- (TUN-TAP), 1
+# Forza Motorsport 7 -腾讯规则- (TUN-TAP), 1
 2.21.71.88/32
 2.21.71.89/32
 4.27.248.254/32

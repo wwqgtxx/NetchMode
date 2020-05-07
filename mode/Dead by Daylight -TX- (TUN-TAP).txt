@@ -1,4 +1,4 @@
-# Dead by Daylight -TX- (TUN-TAP), 1
+# Dead by Daylight -腾讯规则- (TUN-TAP), 1
 2.21.71.88/32
 2.21.71.89/32
 3.0.17.0/24

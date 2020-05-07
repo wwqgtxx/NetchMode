@@ -1,4 +1,4 @@
-# Grand Theft Auto V -TX- (TUN-TAP), 1
+# Grand Theft Auto V -腾讯规则- (TUN-TAP), 1
 1.9.185.0/24
 1.11.57.0/24
 1.32.18.0/24
