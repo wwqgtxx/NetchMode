@@ -1,4 +1,4 @@
-# KartRider, 0
+# KartRider (Korea) (with NGM), 0
 AdBalloonExt.exe
 KartRecovery.exe
 KartRider.exe

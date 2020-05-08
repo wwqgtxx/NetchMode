@@ -1,4 +1,4 @@
-# Closers, 0
+# Closers (Korea) (with NGM), 0
 CLOSERS.exe
 CW.exe
 NGM.exe
