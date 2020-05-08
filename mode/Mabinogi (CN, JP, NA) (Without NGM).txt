@@ -1,3 +1,0 @@
-# Mabinogi, 0
-Client.exe
-Mabinogi.exe
