@@ -1,4 +1,4 @@
-# Escape from Tarkov -UU规则20200517- (TUN-TAP), 1
+# Escape from Tarkov(HK) -UU规则20200517- (TUN-TAP), 1
 5.8.78.0/24
 5.88.1.0/24
 5.188.1.0/24
