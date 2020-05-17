@@ -1,4 +1,4 @@
-# Maple Story(Taiwan) -UU规则20200517- (TUN-TAP), 1
+# Maple Story (Taiwan) -UU规则20200517- (TUN-TAP), 1
 13.112.0.0/16
 13.115.142.243/32
 34.192.0.0/16
