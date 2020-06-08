@@ -1,4 +1,4 @@
-# KartRider Drift, 0
+# KartRider Drift (With Nexon Launcher), 0
 nexon_client.exe
 nexon_runtime.exe
 KartRider.exe
