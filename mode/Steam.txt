@@ -9,7 +9,7 @@ steam_monitor.exe
 x64launcher.exe
 x86launcher.exe
 GameOverlayUI.exe
-Steam.exe
+steam.exe
 DXSETUP.exe
 vcredist_x64.exe
 vcredist_x86.exe
