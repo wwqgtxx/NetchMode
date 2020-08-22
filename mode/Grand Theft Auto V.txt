@@ -4,13 +4,8 @@ GTAVLanguageSelect.exe
 GTAVLauncher.exe
 PlayGTAV.exe
 Rockstar-Games-Launcher.exe
-Social-Club-Setup.exe
-Launcher.exe
-LauncherPatcher.exe
+Launcher\Launcher.exe
+Launcher\LauncherPatcher.exe
 RockstarService.exe
 RockstarSteamHelper.exe
-uninstall.exe
-vc_redist.x64.exe
-vc_redist.x86.exe
 SocialClubHelper.exe
-uninstallRGSCRedistributable.exe
