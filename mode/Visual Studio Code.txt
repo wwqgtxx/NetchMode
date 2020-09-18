@@ -5,3 +5,4 @@ inno_updater.exe
 CodeHelper.exe
 rg.exe
 winpty-agent.exe
+ssh.exe
