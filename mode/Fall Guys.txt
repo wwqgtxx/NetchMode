@@ -1,3 +1,0 @@
-# Fall Guys
-FallGuys_client.exe
-FallGuys_client_game.exe

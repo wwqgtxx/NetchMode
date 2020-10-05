@@ -1,3 +1,0 @@
-# Mabinogi (ANY w/o KOR) (Without NGM), 0
-Client.exe
-Mabinogi.exe

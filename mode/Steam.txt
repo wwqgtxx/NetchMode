@@ -10,13 +10,7 @@ x64launcher.exe
 x86launcher.exe
 GameOverlayUI.exe
 steam.exe
-DXSETUP.exe
-vcredist_x64.exe
-vcredist_x86.exe
-vc_redist.x64.exe
-vc_redist.x86.exe
 steamerrorreporter.exe
 steamerrorreporter64.exe
 streaming_client.exe
-uninstall.exe
 WriteMiniDump.exe

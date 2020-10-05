@@ -1,6 +1,0 @@
-# KartRider Drift (With Nexon Launcher), 0
-nexon_client.exe
-nexon_runtime.exe
-KartRider.exe
-KartRider-Win64-Shipping.exe
-UnrealCEFSubProcess.exe

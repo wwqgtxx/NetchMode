@@ -1,3 +1,0 @@
-# Hitman 2
-HITMAN2.exe
-Launcher.exe

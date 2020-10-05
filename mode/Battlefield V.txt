@@ -1,5 +1,0 @@
-# Battlefield V, 0
-bfv.exe
-bfvTrial.exe
-Cleanup.exe
-Touchup.exe

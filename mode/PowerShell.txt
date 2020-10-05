@@ -1,3 +1,0 @@
-# PowerShell
-powershell.exe
-powershell_ise.exe

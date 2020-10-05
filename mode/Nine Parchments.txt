@@ -1,2 +1,0 @@
-# Nine Parchments
-nineparchments_64bit.exe

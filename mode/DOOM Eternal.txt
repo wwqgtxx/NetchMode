@@ -1,3 +1,0 @@
-# DOOM Eternal, 0
-DOOMEternalx64vk.exe
-idTechLauncher.exe

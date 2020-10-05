@@ -1,2 +1,0 @@
-# Insurgency: Sandstorm
-InsurgencyClient-Win64-Shipping.exe

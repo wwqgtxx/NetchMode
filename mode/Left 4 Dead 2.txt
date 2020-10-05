@@ -1,3 +1,0 @@
-# Left 4 Dead 2
-left4dead2.exe
-addoninstaller.exe

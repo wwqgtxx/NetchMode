@@ -1,3 +1,0 @@
-# Destiny 2
-destiny2.exe
-miniTicketDbg.exe

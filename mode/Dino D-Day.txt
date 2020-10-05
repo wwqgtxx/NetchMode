@@ -1,2 +1,0 @@
-# Dino D-Day
-dinodday.exe

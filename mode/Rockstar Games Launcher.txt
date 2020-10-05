@@ -1,7 +1,2 @@
 # Rockstar Games Launcher
-Launcher.exe
-LauncherPatcher.exe
-RockstarService.exe
-RockstarSteamHelper.exe
-uninstall.exe
-Social-Club-Setup.exe
+\\Rockstar Games\\Launcher\\
