@@ -6,6 +6,6 @@ BroCrashReporter.exe
 PUBGLite-Win64-Shipping.exe
 ucldr_bgl_se.exe
 ucsvc.exe
-Launcher.exe
-LauncherAgent.exe
+\\Launcher.exe
+\\LauncherAgent.exe
 unins000.exe
