@@ -1,4 +1,5 @@
 # [TUN/TAP] Bypass LAN and China, 2, 1
+#include <[TUNTAP] Bypass LAN.h>
 1.0.1.0/24
 1.0.2.0/23
 1.0.8.0/21
