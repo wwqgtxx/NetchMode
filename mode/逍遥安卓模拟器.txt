@@ -1,24 +1,2 @@
 # 逍遥模拟器
-MEmuDrvInst.exe
-MEmuHeadless.exe
-MEmuManage.exe
-MEmuSVC.exe
-NetFltInstall.exe
-NetFltUninstall.exe
-NetLwfInstall.exe
-NetLwfUninstall.exe
-7za.exe
-aapt.exe
-adb.exe
-clearRemnants.exe
-glewinfo.exe
-MEmu.exe
-memuc.exe
-MEmuConsole.exe
-MEmuPush.exe
-MEmuRepair.exe
-MemuService.exe
-MEmuUpdate.exe
-screenrecord.exe
-uninstall.exe
-devcon.exe
+\\Microvirt\\
