@@ -12,4 +12,5 @@
 !v2ctl.exe
 !v2ray-plugin.exe
 !v2ray.exe
+!xray.exe
 !tapinstall.exe
